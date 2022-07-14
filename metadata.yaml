@@ -1,0 +1,31 @@
+_repo: Dr-Courtney-s-guide-to-happy-marriage_68396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Courtney, A. B.
+    alias: Courtney, Dr.
+    gutenberg_agent_id: '54753'
+    url: http://www.gutenberg.org/2009/agents/54753
+description: ''
+gutenberg_issued: '2022-06-24'
+identifiers:
+  gutenberg: '68396'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:553112
+pgterms:marc905: 20211128064138courtney
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: United States :A. B. Courtney,1894.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Multum in parvo library, vol. 1, no. 6, June, 1894
+subjects:
+- !lcsh 'Marriage'
+- !lcc 'HQ'
+- !lcsh 'Interpersonal relations'
+- GITenberg
+title: Dr. Courtney's guide to happy marriage
+url: http://www.gutenberg.org/ebooks/68396
